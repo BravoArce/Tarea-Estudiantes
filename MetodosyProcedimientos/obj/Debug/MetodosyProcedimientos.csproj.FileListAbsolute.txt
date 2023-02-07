@@ -1,0 +1,16 @@
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\MetodosyProcedimientos\MetodosyProcedimientos\bin\Debug\MetodosyProcedimientos.exe.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\MetodosyProcedimientos\MetodosyProcedimientos\bin\Debug\MetodosyProcedimientos.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\MetodosyProcedimientos\MetodosyProcedimientos\bin\Debug\MetodosyProcedimientos.pdb
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.pdb
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\CLASE 3\MetodosyProcedimientos\MetodosyProcedimientos\bin\Debug\MetodosyProcedimientos.exe.config
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\CLASE 3\MetodosyProcedimientos\MetodosyProcedimientos\bin\Debug\MetodosyProcedimientos.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\CLASE 3\MetodosyProcedimientos\MetodosyProcedimientos\bin\Debug\MetodosyProcedimientos.pdb
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\CLASE 3\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\CLASE 3\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\CLASE 3\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\CLASE 3\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.exe
+D:\UNIVERSIDAD\III CUATRIMESTRE\PROGRA II\CLASE 3\MetodosyProcedimientos\MetodosyProcedimientos\obj\Debug\MetodosyProcedimientos.pdb
